@@ -1,0 +1,8 @@
+C:\Users\BP8G6\Desktop\ASE\T8-Restful\T8-Restful\bin\T8-Restful.dll
+C:\Users\BP8G6\Desktop\ASE\T8-Restful\T8-Restful\bin\T8-Restful.pdb
+C:\Users\BP8G6\Desktop\ASE\T8-Restful\T8-Restful\obj\Debug\T8-Restful.dll
+C:\Users\BP8G6\Desktop\ASE\T8-Restful\T8-Restful\obj\Debug\T8-Restful.pdb
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\T8-Restful\bin\T8-Restful.dll
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\T8-Restful\bin\T8-Restful.pdb
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\T8-Restful\obj\Debug\T8-Restful.dll
+C:\Users\sk7x9\Documents\Visual Studio 2010\Projects\T8-Restful\obj\Debug\T8-Restful.pdb
